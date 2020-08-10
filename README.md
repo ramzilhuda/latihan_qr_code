@@ -1,6 +1,9 @@
 # latihan_qr_code
+Latihan untuk membuat QR code 
 
-A new Flutter project.
+tampilan : 
+![Screenshot_2020-08-10-11-46-40-10_a9b526e93ad781216efa27a6d79ab16b 1](https://user-images.githubusercontent.com/60292040/89752610-5113f700-daff-11ea-9fc7-0590dc168346.jpg)
+
 
 ## Getting Started
 
